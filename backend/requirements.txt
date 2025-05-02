@@ -1,0 +1,20 @@
+# Flask==2.3.3
+# flask-cors==3.0.10
+# fastai==2.7.12
+# numpy==1.26.0
+# librosa==0.10.1
+# matplotlib==3.8.0
+# pillow==10.0.1
+# scipy==1.11.3  # Ensure this is compatible with the downgraded torch
+# torch==2.0.1
+# torchvision==0.15.2  # Update to match the compatible version
+# torchaudio==2.0.1  
+
+Flask==2.3.3
+flask-cors==3.0.10
+onnxruntime==1.17.1
+numpy==1.26.4
+librosa==0.10.1
+matplotlib==3.8.0
+scipy==1.11.3
+Pillow==10.0.1
